@@ -28,8 +28,8 @@
       <file leaf-file-name="2.employee.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2.employee.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -59,8 +59,8 @@
       <list>
         <option value="$PROJECT_DIR$/1.employee.py" />
         <option value="$PROJECT_DIR$/1.class_test.py" />
-        <option value="$PROJECT_DIR$/2.employee.py" />
         <option value="$PROJECT_DIR$/3.bank.py" />
+        <option value="$PROJECT_DIR$/2.employee.py" />
       </list>
     </option>
   </component>
@@ -106,7 +106,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.3.bank">
+  <component name="RunManager" selected="Python.2.employee">
     <configuration default="false" name="1.employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,8 +317,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.3.bank" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2.employee" />
+        <item index="0" class="java.lang.String" itemvalue="Python.2.employee" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3.bank" />
         <item index="2" class="java.lang.String" itemvalue="Python.1.class_test" />
         <item index="3" class="java.lang.String" itemvalue="Python.1.employee" />
       </list>
@@ -338,7 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -396,8 +396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2.employee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding />
         </state>
       </provider>

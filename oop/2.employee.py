@@ -12,7 +12,7 @@ class employee:
         return "%s.%s@inapp.com" %(self.firstname.lower(),self.lastname.lower())
 
     def getsal(self):
-        return self.salary
+        return "your salary is %s" %(self.salary)
 
 
 
